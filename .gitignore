@@ -1,0 +1,16 @@
+__pycache__/
+.idea
+.vscode
+
+/ch1
+_media/
+첨부파일/
+
+db.sqlite3
+
+.env.dev
+.env.prod
+.env.prod.db
+
+docker-compose.dev.yml
+docker-compose.yml

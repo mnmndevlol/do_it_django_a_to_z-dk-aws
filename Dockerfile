@@ -1,7 +1,7 @@
 FROM python:3.8.0
 
 WORKDIR /usr/src/app
-
+RUN echo "testtest"
 ENV PYTHONDONTWRITEBYTECODE 1
 ENV PYTHONUNBUFFERED 1
 
